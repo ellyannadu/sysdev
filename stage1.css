@@ -66,8 +66,3 @@ body {
 .email:hover {
     text-decoration: underline;
 }
-
-#loadMore {
-    display: block;
-    margin: 0 auto;
-}
